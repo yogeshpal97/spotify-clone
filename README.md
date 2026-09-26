@@ -1,48 +1,41 @@
 # Spotify Clone – Music Streaming UI
 
-A Spotify-inspired music streaming interface built using HTML5 and CSS3. 
-The project recreates the layout and visual experience of a modern music 
-streaming platform while focusing on frontend UI development and CSS styling.
+A Spotify-inspired music streaming web interface built using HTML5 and CSS3. 
+This project focuses on recreating a modern music streaming layout while 
+practicing frontend development, responsive design, and CSS-based UI styling.
 
 ## Features
 
-- Spotify-inspired dark-themed interface
-- Sidebar navigation with Home, Search, and Your Library sections
+- Spotify-inspired dark-themed user interface
+- Sidebar navigation with Home, Search, and Your Library
 - Playlist and podcast sections
 - Recently Played section
-- Trending music cards
+- Trending music section
 - Featured Charts section
-- Sticky navigation bar
-- Bottom music player interface
-- Album and song information section
-- Player controls and progress bar UI
-- Volume control slider
-- Hover effects and interactive UI styling
-- Responsive layout for smaller screen sizes
+- Music cards with album artwork and information
+- Sticky top navigation bar
+- Fixed bottom music player interface
+- Playback progress and volume controls UI
+- Hover effects and interactive UI elements
+- Responsive layout for different screen sizes
 
-## Tech Stack
+## Technologies Used
 
 - HTML5
 - CSS3
 - Font Awesome
 - Google Fonts
 
-## UI Concepts Used
+## Key Concepts
 
-- CSS Flexbox
+- Flexbox layout
 - CSS positioning
-- Sticky and fixed layouts
-- Responsive design with media queries
-- Hover effects
-- Custom range sliders
+- Sticky and fixed elements
+- Responsive design using media queries
 - Card-based UI design
+- CSS hover effects
+- Custom range sliders
 
-## Project Structure
+## Live Demo
 
-```text
-spotify-clone/
-├── index.html
-├── style.css
-└── assets/
-    ├── images and icons
-    └── other project assets
+View Live Demo : https://yogeshpal97.github.io/spotify-clone/
