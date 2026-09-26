@@ -38,4 +38,4 @@ practicing frontend development, responsive design, and CSS-based UI styling.
 
 ## Live Demo
 
-View Live Demo : https://yogeshpal97.github.io/spotify-clone/
+https://yogeshpal97.github.io/spotify-clone/
